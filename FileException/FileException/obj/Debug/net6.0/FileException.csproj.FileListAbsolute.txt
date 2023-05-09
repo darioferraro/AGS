@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\FileException\FileException\bin\Debug\net6.0\FileException.exe
+C:\Users\dario\source\repos\FileException\FileException\bin\Debug\net6.0\FileException.deps.json
+C:\Users\dario\source\repos\FileException\FileException\bin\Debug\net6.0\FileException.runtimeconfig.json
+C:\Users\dario\source\repos\FileException\FileException\bin\Debug\net6.0\FileException.dll
+C:\Users\dario\source\repos\FileException\FileException\bin\Debug\net6.0\FileException.pdb
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\FileException.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\FileException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\FileException.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\FileException.AssemblyInfo.cs
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\FileException.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\FileException.dll
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\refint\FileException.dll
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\FileException.pdb
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\FileException.genruntimeconfig.cache
+C:\Users\dario\source\repos\FileException\FileException\obj\Debug\net6.0\ref\FileException.dll

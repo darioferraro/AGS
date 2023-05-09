@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\bin\Debug\net6.0\JSONSerialization.exe
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\bin\Debug\net6.0\JSONSerialization.deps.json
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\bin\Debug\net6.0\JSONSerialization.runtimeconfig.json
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\bin\Debug\net6.0\JSONSerialization.dll
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\bin\Debug\net6.0\JSONSerialization.pdb
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\JSONSerialization.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\JSONSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\JSONSerialization.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\JSONSerialization.AssemblyInfo.cs
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\JSONSerialization.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\JSONSerialization.dll
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\refint\JSONSerialization.dll
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\JSONSerialization.pdb
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\JSONSerialization.genruntimeconfig.cache
+C:\Users\dario\source\repos\JSONSerialization\JSONSerialization\obj\Debug\net6.0\ref\JSONSerialization.dll

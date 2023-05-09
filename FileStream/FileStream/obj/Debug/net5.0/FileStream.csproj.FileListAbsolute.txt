@@ -1,0 +1,16 @@
+C:\Users\SGEFED\source\repos\FileStream\FileStream\bin\Debug\net5.0\FileStream.exe
+C:\Users\SGEFED\source\repos\FileStream\FileStream\bin\Debug\net5.0\FileStream.deps.json
+C:\Users\SGEFED\source\repos\FileStream\FileStream\bin\Debug\net5.0\FileStream.runtimeconfig.json
+C:\Users\SGEFED\source\repos\FileStream\FileStream\bin\Debug\net5.0\FileStream.runtimeconfig.dev.json
+C:\Users\SGEFED\source\repos\FileStream\FileStream\bin\Debug\net5.0\FileStream.dll
+C:\Users\SGEFED\source\repos\FileStream\FileStream\bin\Debug\net5.0\ref\FileStream.dll
+C:\Users\SGEFED\source\repos\FileStream\FileStream\bin\Debug\net5.0\FileStream.pdb
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\FileStream.AssemblyInfoInputs.cache
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\FileStream.AssemblyInfo.cs
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\FileStream.csproj.CoreCompileInputs.cache
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\FileStream.dll
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\ref\FileStream.dll
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\FileStream.pdb
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\FileStream.genruntimeconfig.cache
+C:\Users\SGEFED\source\repos\FileStream\FileStream\obj\Debug\net5.0\FileStream.csproj.AssemblyReference.cache

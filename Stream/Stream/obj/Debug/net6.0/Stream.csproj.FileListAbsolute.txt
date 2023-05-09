@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\Stream.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\Stream.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\Stream.AssemblyInfo.cs
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\Stream.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Stream\Stream\bin\Debug\net6.0\Stream.exe
+C:\Users\dario\source\repos\Stream\Stream\bin\Debug\net6.0\Stream.deps.json
+C:\Users\dario\source\repos\Stream\Stream\bin\Debug\net6.0\Stream.runtimeconfig.json
+C:\Users\dario\source\repos\Stream\Stream\bin\Debug\net6.0\Stream.dll
+C:\Users\dario\source\repos\Stream\Stream\bin\Debug\net6.0\Stream.pdb
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\Stream.dll
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\refint\Stream.dll
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\Stream.pdb
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\Stream.genruntimeconfig.cache
+C:\Users\dario\source\repos\Stream\Stream\obj\Debug\net6.0\ref\Stream.dll

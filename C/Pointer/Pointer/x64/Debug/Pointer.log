@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\dario\source\repos\C\Pointer\Pointer\main.c(51,22): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "uint32_t" und "const uint8_t *" unterschiedlich
+C:\Users\dario\source\repos\C\Pointer\Pointer\main.c(51,21): warning C4024: "printPointerAdress": unterschiedliche Typen für formalen und übergebenen Parameter 1
+C:\Users\dario\source\repos\C\Pointer\Pointer\main.c(52,22): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "uint32_t" und "uint8_t *" unterschiedlich
+C:\Users\dario\source\repos\C\Pointer\Pointer\main.c(52,21): warning C4024: "printPointerAdress": unterschiedliche Typen für formalen und übergebenen Parameter 1
+C:\Users\dario\source\repos\C\Pointer\Pointer\main.c(53,25): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "uint32_t" und "uint8_t *" unterschiedlich
+C:\Users\dario\source\repos\C\Pointer\Pointer\main.c(53,21): warning C4024: "printPointerAdress": unterschiedliche Typen für formalen und übergebenen Parameter 1
+  Pointer.vcxproj -> C:\Users\dario\source\repos\C\Pointer\x64\Debug\Pointer.exe

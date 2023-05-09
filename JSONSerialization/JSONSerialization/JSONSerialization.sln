@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSONSerialization", "JSONSerialization\JSONSerialization.csproj", "{85A6AF65-A628-4B47-9672-C8EB57CDA2B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonenDaten", "..\PersonenDaten\PersonenDaten\PersonenDaten.csproj", "{6CBE184D-291B-4FC8-BF0E-DE5D9BBC6C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85A6AF65-A628-4B47-9672-C8EB57CDA2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A6AF65-A628-4B47-9672-C8EB57CDA2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A6AF65-A628-4B47-9672-C8EB57CDA2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A6AF65-A628-4B47-9672-C8EB57CDA2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBE184D-291B-4FC8-BF0E-DE5D9BBC6C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBE184D-291B-4FC8-BF0E-DE5D9BBC6C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBE184D-291B-4FC8-BF0E-DE5D9BBC6C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBE184D-291B-4FC8-BF0E-DE5D9BBC6C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D97DBC-DD09-4861-9415-CDD88FD8025F}
+	EndGlobalSection
+EndGlobal

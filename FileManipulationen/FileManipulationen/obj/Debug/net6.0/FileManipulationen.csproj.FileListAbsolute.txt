@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\bin\Debug\net6.0\FileManipulationen.exe
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\bin\Debug\net6.0\FileManipulationen.deps.json
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\bin\Debug\net6.0\FileManipulationen.runtimeconfig.json
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\bin\Debug\net6.0\FileManipulationen.dll
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\bin\Debug\net6.0\FileManipulationen.pdb
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\FileManipulationen.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\FileManipulationen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\FileManipulationen.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\FileManipulationen.AssemblyInfo.cs
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\FileManipulationen.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\FileManipulationen.dll
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\refint\FileManipulationen.dll
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\FileManipulationen.pdb
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\FileManipulationen.genruntimeconfig.cache
+C:\Users\dario\source\repos\FileManipulationen\FileManipulationen\obj\Debug\net6.0\ref\FileManipulationen.dll
